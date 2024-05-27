@@ -1,0 +1,11 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\bin\Debug\net8.0\ChocoAmigoAPI.Domain.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\bin\Debug\net8.0\ChocoAmigoAPI.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\bin\Debug\net8.0\ChocoAmigoAPI.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\ChocoAmigoAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\ChocoAmigoAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\ChocoAmigoAPI.Domain.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\ChocoAmigoAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\ChocoAmigoAPI.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\refint\ChocoAmigoAPI.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\ChocoAmigoAPI.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChocoAmigoAPI.Domain\obj\Debug\net8.0\ref\ChocoAmigoAPI.Domain.dll

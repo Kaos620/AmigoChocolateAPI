@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\refint\ChochoAmigoAPI.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ref\ChochoAmigoAPI.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoChocolate\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAm.6F9AED9D.Up2Date

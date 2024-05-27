@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4uRu+KOKDKhdH7sYdj+DuTD/TdWiMn2qLl2QqSEBO80=",
+  "Source": "ChocoAmigoAPI.Web",
+  "BasePath": "_content/ChocoAmigoAPI.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
