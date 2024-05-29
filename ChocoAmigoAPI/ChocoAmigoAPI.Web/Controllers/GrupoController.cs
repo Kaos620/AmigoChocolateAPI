@@ -15,14 +15,6 @@ namespace ChocoAmigoAPI.Web.Controllers
             _grupoService = grupoService;
         }
 
-        [HttpGet]
-        public IActionResult Get()
-        {
-            var buscarGrupos = _grupoService.ProcurarTudo();
-
-            return Ok(buscarGrupos);
-        }
-
         [HttpGet("{id}")]
         public IActionResult GetId(int id)
         {
@@ -42,12 +34,16 @@ namespace ChocoAmigoAPI.Web.Controllers
         [HttpPut("{id}")]
         public IActionResult Put(int id)
         {
+            //_grupoService.Atualizar()
+
             return Accepted();
         }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
+            _grupoService.Excluir(id);
+
             return Accepted();
         }
     }

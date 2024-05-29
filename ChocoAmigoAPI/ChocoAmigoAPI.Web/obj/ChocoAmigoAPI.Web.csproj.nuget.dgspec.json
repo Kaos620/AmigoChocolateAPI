@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj": {}
+    "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj": {
+    "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
+        "projectUniqueName": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
         "projectName": "ChochoAmigoAPI.Service",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\obj\\",
+        "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
+        "packagesPath": "C:\\Users\\rafael.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafael.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj"
+              "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj"
               }
             }
           }
@@ -38,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -70,21 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
+    "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj",
         "projectName": "ChocoAmigoAPI.Domain",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\obj\\",
+        "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafael.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafael.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,11 +99,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -130,21 +120,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj": {
+    "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj",
         "projectName": "ChocoAmigoAPI.Repository",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\obj\\",
+        "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj",
+        "packagesPath": "C:\\Users\\rafael.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafael.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,8 +148,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj"
+              "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj"
               }
             }
           }
@@ -168,11 +158,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -204,21 +189,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj": {
+    "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
+        "projectUniqueName": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
         "projectName": "ChocoAmigoAPI.Web",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\obj\\",
+        "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
+        "packagesPath": "C:\\Users\\rafael.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafael.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -232,11 +217,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj": {
-                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj"
+              "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj": {
+                "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj"
               },
-              "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj": {
-                "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj"
+              "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj": {
+                "projectPath": "C:\\Users\\rafael.cardoso\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\AmigoChocolateAPI\\AmigoChocolateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj"
               }
             }
           }
@@ -245,11 +230,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -280,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

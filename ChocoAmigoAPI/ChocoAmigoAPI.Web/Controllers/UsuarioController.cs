@@ -15,34 +15,42 @@ namespace ChocoAmigoAPI.Web.Controllers
             _usuarioService = usuarioService;
         }
 
-        [HttpGet]
-        public IActionResult Get()
-        {
-            return Ok();
-        }
+        //[HttpGet]
+        //public IActionResult Get()
+        //{
+        //    return Ok();
+        //}
 
-        [HttpGet("{id}")]
-        public IActionResult GetId(int id)
+        [HttpGet("{id}")]//colocaria oque aqui? Nome do Usuario?
+        public IActionResult GetId(string email, string senha)
         {
-            return Ok();
+            var procurarUsuarios = _usuarioService.Autenticar(email, senha);
+
+            return Ok(procurarUsuarios);
         }
 
         [HttpPost]
         public IActionResult Post([FromBody] NovoUsuarioViewModel novoUsuario)
         {
+            _usuarioService.Inserir(novoUsuario);
+
             return Created();
         }
 
 
         [HttpPut("{id}")]
-        public IActionResult Put(int id)
+        public IActionResult Put([FromBody] UsuarioViewModel usuarioId)
         {
+            _usuarioService.Atualizar(usuarioId);
+
             return Accepted();
         }
        
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
+            _usuarioService.Excluir(id);
+
             return Accepted();
         }
 

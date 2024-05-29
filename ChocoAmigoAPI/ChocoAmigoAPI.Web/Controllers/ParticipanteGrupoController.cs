@@ -1,5 +1,8 @@
 ﻿using ChochoAmigoAPI.Service.Interfaces;
+using ChochoAmigoAPI.Service.Services;
 using ChochoAmigoAPI.Service.ViewModel.ParticipanteGrupo;
+using ChochoAmigoAPI.Service.ViewModel.Usuario;
+using ChochoAmigoAPI.Service.ViewModel.Grupo;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,34 +19,39 @@ namespace ChocoAmigoAPI.Web.Controllers
         }
 
 
-        [HttpGet]
-        public IActionResult Get()
+        [HttpGet("{grupoId}")]
+        public IActionResult Get(int grupoId)
         {
-            return Ok();
+            var buscarUsuariosGrupo = _participanteGrupoService.ProcurarUsuariosGrupo(grupoId);
+
+            return Ok(buscarUsuariosGrupo);
+
         }
 
-        [HttpGet("{id}")]
-        public IActionResult GetId(int id)
+        [HttpGet("{usuarioId}")]
+        public IActionResult GetId(int usuarioId)
         {
-            return Ok();
+            var buscarGruposUsuario = _participanteGrupoService.ProcurarGruposUsuario(usuarioId);
+
+            return Ok(buscarGruposUsuario);
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] NovoParticipanteGrupoViewModel novoParticipanteGrupo)
+        public IActionResult Post(int usuarioId, int grupoId)
         {
+            _participanteGrupoService.Inserir(usuarioId, grupoId);
+
             return Created();
         }
 
 
-        [HttpPut("{id}")]
-        public IActionResult Put(int id)
-        {
-            return Accepted();
-        }
 
-        [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        [HttpDelete("{usuarioId}/{grupoId}")]
+        public IActionResult Delete(int usuarioId, int grupoId)
         {
+
+            _participanteGrupoService.Excluir(usuarioId, grupoId);
+
             return Accepted();
         }
     }

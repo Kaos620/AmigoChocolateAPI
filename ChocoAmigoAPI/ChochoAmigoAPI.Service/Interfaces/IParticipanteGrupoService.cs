@@ -13,7 +13,7 @@ namespace ChochoAmigoAPI.Service.Interfaces
     {
         IEnumerable<GrupoViewModel?> ProcurarGruposUsuario(int usuarioId);
         IEnumerable<UsuarioViewModel?> ProcurarUsuariosGrupo(int grupoId);
-        Task Inserir(ParticipanteGrupoViewModel participanteGrupo, int usuarioId);
+        Task Inserir( int grupoId, int usuarioId);
         Task Atualizar(ParticipanteGrupoViewModel participanteGrupo);
         Task Excluir(int usuarioId, int grupoId);
 
