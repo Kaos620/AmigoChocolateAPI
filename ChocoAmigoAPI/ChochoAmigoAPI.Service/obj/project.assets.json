@@ -228,11 +228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
       "projectName": "ChochoAmigoAPI.Service",
-      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -249,8 +249,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj"
+            "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Domain\\ChocoAmigoAPI.Domain.csproj"
             }
           }
         }

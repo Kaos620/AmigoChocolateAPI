@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfRUTMIZetHM/qq+gBTE0EeS7haatgv9AcBvqJ9YR5M2GkZHlHrxfoWkmUP95lKAFJwfr/uz4xwW3APNWJSjVw==",
+  "dgSpecHash": "pe9zQvvzu/XNmXORZ/ByrxsExKuyQ0BH53L9or3KpPhXaC036C5+uCEHIDHtcoyJIi+A9fKCNTCcPU3hYRF9Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -3768,11 +3768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
       "projectName": "ChocoAmigoAPI.Web",
-      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\ChocoAmigoAPI.Web.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3789,11 +3789,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj": {
-              "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj"
+            "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChochoAmigoAPI.Service\\ChochoAmigoAPI.Service.csproj"
             },
-            "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj": {
-              "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj"
+            "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj"
             }
           }
         }

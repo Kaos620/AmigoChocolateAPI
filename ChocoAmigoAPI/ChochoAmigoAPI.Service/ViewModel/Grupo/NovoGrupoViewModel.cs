@@ -16,4 +16,10 @@ namespace ChochoAmigoAPI.Service.ViewModel.Grupo
         public string? Icone { get; set; }
         public string SenhaGrupo { get; set; }
     }
+
+    public class NovoGrupoRequest
+    {
+        public int Id { get; set; }
+        public NovoGrupoViewModel NovoGrupo { get; set; }
+    }
 }

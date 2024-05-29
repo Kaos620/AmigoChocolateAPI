@@ -1,4 +1,5 @@
-﻿using ChochoAmigoAPI.Service.ViewModel.Usuario;
+﻿using ChochoAmigoAPI.Service.Interfaces;
+using ChochoAmigoAPI.Service.ViewModel.Usuario;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,13 +9,19 @@ namespace ChocoAmigoAPI.Web.Controllers
     [ApiController]
     public class UsuarioController : ControllerBase
     {
+        private readonly IUsuarioService _usuarioService;
+        public UsuarioController(IUsuarioService usuarioService)
+        {
+            _usuarioService = usuarioService;
+        }
+
         [HttpGet]
         public IActionResult Get()
         {
             return Ok();
         }
 
-        [HttpGet("/usuario/{id}")]
+        [HttpGet("{id}")]
         public IActionResult GetId(int id)
         {
             return Ok();
@@ -27,13 +34,13 @@ namespace ChocoAmigoAPI.Web.Controllers
         }
 
 
-        [HttpPut("/{id}")]
+        [HttpPut("{id}")]
         public IActionResult Put(int id)
         {
             return Accepted();
         }
        
-        [HttpDelete("/{id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             return Accepted();

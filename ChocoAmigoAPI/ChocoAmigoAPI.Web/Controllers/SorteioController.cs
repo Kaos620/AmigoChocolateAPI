@@ -14,7 +14,7 @@ namespace ChocoAmigoAPI.Web.Controllers
             return Ok();
         }
 
-        [HttpGet("/sorteio/{id}")]
+        [HttpGet("{id}")]
         public IActionResult GetId(int id)
         {
             return Ok();
@@ -27,13 +27,13 @@ namespace ChocoAmigoAPI.Web.Controllers
         }
 
 
-        [HttpPut("/{id}")]
+        [HttpPut("{id}")]
         public IActionResult Put(int id)
         {
             return Accepted();
         }
 
-        [HttpDelete("/{id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             return Accepted();

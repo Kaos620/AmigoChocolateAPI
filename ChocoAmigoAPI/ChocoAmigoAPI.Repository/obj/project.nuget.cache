@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8A3AqxjljQdFWT1YksXmCLaPwljXza3ghc+aPYMTsNuZZex6DkVMbh9mXlFNTDhKVqQhU4ICTvpqHoGg0z6CQ==",
+  "dgSpecHash": "ERtZ/S6jmWjKAZSPoJMW2ax+ZXhRrrN/fpmmbDcpcGvfjjvyEYpRV2tvoiaDFjORr1cwu5mbZ4VjIWU7B1WPZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoChocolate\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AmigoCholateAPI\\ChocoAmigoAPI\\ChocoAmigoAPI.Repository\\ChocoAmigoAPI.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,4 +1,5 @@
-﻿using ChochoAmigoAPI.Service.ViewModel.ParticipanteGrupo;
+﻿using ChochoAmigoAPI.Service.Interfaces;
+using ChochoAmigoAPI.Service.ViewModel.ParticipanteGrupo;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,13 +9,20 @@ namespace ChocoAmigoAPI.Web.Controllers
     [ApiController]
     public class ParticipanteGrupoController : ControllerBase
     {
+        private readonly IParticipanteGrupoService _participanteGrupoService;
+        public ParticipanteGrupoController(IParticipanteGrupoService participanteGrupoService)
+        {
+            _participanteGrupoService = participanteGrupoService;
+        }
+
+
         [HttpGet]
         public IActionResult Get()
         {
             return Ok();
         }
 
-        [HttpGet("/participantegrupo/{id}")]
+        [HttpGet("{id}")]
         public IActionResult GetId(int id)
         {
             return Ok();
@@ -27,13 +35,13 @@ namespace ChocoAmigoAPI.Web.Controllers
         }
 
 
-        [HttpPut("/{id}")]
+        [HttpPut("{id}")]
         public IActionResult Put(int id)
         {
             return Accepted();
         }
 
-        [HttpDelete("/{id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             return Accepted();
