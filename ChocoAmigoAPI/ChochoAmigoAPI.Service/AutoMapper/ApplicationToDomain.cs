@@ -24,7 +24,7 @@ namespace ChochoAmigoAPI.Service.AutoMapper
                    p.NomeGrupo,
                    p.QtdMax,
                    p.Valor,
-                   p.DataRevelação,
+                   p.DataRevelacao,
                    p.Descricao,
                    p.Icone,
                    p.SenhaGrupo
@@ -35,7 +35,7 @@ namespace ChochoAmigoAPI.Service.AutoMapper
                    p.NomeGrupo,
                    p.QtdMax,
                    p.Valor,
-                   p.DataRevelação,
+                   p.DataRevelacao,
                    p.Descricao,
                    p.Icone,
                    p.SenhaGrupo

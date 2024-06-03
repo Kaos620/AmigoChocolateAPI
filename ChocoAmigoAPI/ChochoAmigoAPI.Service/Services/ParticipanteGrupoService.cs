@@ -22,7 +22,7 @@ namespace ChochoAmigoAPI.Service.Services
             throw new NotImplementedException();
         }
 
-        public Task Inserir(ParticipanteGrupoViewModel participanteGrupo, int usuarioId)
+        public Task Inserir(int grupoId, int usuarioId)
         {
             throw new NotImplementedException();
         }

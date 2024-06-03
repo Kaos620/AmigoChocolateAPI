@@ -29,3 +29,7 @@ C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAm
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\refint\ChochoAmigoAPI.Service.dll
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.pdb
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ref\ChochoAmigoAPI.Service.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Repository.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Repository.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.genruntimeconfig.cache

@@ -22,6 +22,7 @@ builder.Services.AddRouting(options =>
 
 builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("DatabaseSettings"));
 
+
 builder.Services.AddDbContext<Contexto>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString"));

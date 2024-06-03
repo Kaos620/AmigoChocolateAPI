@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ChocoAmigoAPI.Domain\ChocoAmigoAPI.Domain.csproj" />
+    <ProjectReference Include="..\ChocoAmigoAPI.Repository\ChocoAmigoAPI.Repository.csproj" />
   </ItemGroup>
 
 </Project>

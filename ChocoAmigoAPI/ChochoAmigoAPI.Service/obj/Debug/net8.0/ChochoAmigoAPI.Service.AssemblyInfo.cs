@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChochoAmigoAPI.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c729be5d475c2022b03bd829f92ec95f2a1026ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChochoAmigoAPI.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChochoAmigoAPI.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

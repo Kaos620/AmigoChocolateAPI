@@ -661,7 +661,8 @@
       "ChochoAmigoAPI.Service/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "ChocoAmigoAPI.Domain": "1.0.0"
+          "ChocoAmigoAPI.Domain": "1.0.0",
+          "ChocoAmigoAPI.Repository": "1.0.0"
         },
         "runtime": {
           "ChochoAmigoAPI.Service.dll": {}

@@ -15,11 +15,12 @@ namespace ChocoAmigoAPI.Web.Controllers
             _usuarioService = usuarioService;
         }
 
-        //[HttpGet]
-        //public IActionResult Get()
-        //{
-        //    return Ok();
-        //}
+        [HttpGet]
+        public IActionResult Get(string email, string senha)
+        {
+            var autenticarUsuarios = _usuarioService.Autenticar(email, senha);
+            return Ok(autenticarUsuarios);
+        }
 
         [HttpGet("{id}")]//colocaria oque aqui? Nome do Usuario?
         public IActionResult GetId(string email, string senha)

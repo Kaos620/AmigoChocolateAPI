@@ -33,8 +33,8 @@ namespace ChocoAmigo.Repository.EntityFramework.Configurations.Entities
                 .HasColumnType("money");
 
             builder
-                .Property(g => g.DataRevelação)
-                .HasColumnName("DataRevelação")
+                .Property(g => g.DataRevelacao)
+                .HasColumnName("DataRevelacao")
                 .HasColumnType("datetime");
 
             builder
