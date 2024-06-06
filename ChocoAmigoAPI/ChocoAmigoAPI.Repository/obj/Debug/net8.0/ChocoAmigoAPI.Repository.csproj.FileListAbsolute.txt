@@ -33,3 +33,21 @@ C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChocoAmi
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.pdb
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.genruntimeconfig.cache
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ref\ChocoAmigoAPI.Repository.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\bin\Debug\net8.0\ChocoAmigoAPI.Repository.deps.json
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\bin\Debug\net8.0\ChocoAmigoAPI.Repository.runtimeconfig.json
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\bin\Debug\net8.0\ChocoAmigoAPI.Repository.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\bin\Debug\net8.0\ChocoAmigoAPI.Repository.pdb
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\bin\Debug\net8.0\ChocoAmigoAPI.Domain.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\bin\Debug\net8.0\ChocoAmigoAPI.Domain.pdb
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.csproj.AssemblyReference.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.AssemblyInfoInputs.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.AssemblyInfo.cs
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.sourcelink.json
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.csproj.CopyComplete
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\refint\ChocoAmigoAPI.Repository.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.pdb
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ChocoAmigoAPI.Repository.genruntimeconfig.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChocoAmigoAPI.Repository\obj\Debug\net8.0\ref\ChocoAmigoAPI.Repository.dll

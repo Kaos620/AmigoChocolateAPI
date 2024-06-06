@@ -20,13 +20,10 @@ builder.Services.AddRouting(options =>
     options.LowercaseUrls = true; // Configura os URLs para serem minúsculos
 });
 
-builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("DatabaseSettings"));
+var y = builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("DatabaseSettings"));
 
 
-builder.Services.AddDbContext<Contexto>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString"));
-});
+builder.Services.AddScoped<Contexto>();
 
 builder.Services.AddAutoMapper(typeof(DomainToApplication), typeof(ApplicationToDomain));
 
@@ -40,6 +37,13 @@ builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 
 var app = builder.Build();
+
+app.UseCors(options =>
+{
+    options.AllowAnyOrigin(); // Permitir solicitações de qualquer origem
+    options.AllowAnyMethod(); // Permitir solicitações de qualquer método (GET, POST, etc.)
+    options.AllowAnyHeader(); // Permitir qualquer cabeçalho na solicitação
+});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

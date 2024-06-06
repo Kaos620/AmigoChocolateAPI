@@ -11,31 +11,28 @@ namespace ChocoAmigo.Repository.EntityFramework.Configurations.Entities
             builder.ToTable("ChocoUsuario");
             builder.HasKey(u => u.UsuarioId);
 
-            builder
-                .Property(u => u.UsuarioId)
-                .UseIdentityColumn()
-                .HasColumnName("UsuarioId")
-                .HasColumnType("int");
+            //builder
+            //    .Property(u => u.UsuarioId)
+            //    .UseIdentityColumn()
+            //    .HasColumnName("UsuarioId")
+            //    .HasColumnType("int");
 
             builder
                 .Property(u => u.NomeUsuario)
-                .HasColumnName("NomeUsuario")
-                .HasColumnType("varchar(60)");
+                .HasColumnName("NomeUsuario");
 
             builder
                 .Property(u => u.Email)
-                .HasColumnName("Email")
-                .HasColumnType("varchar(100)");
+                .HasColumnName("Email");
 
             builder
                 .Property(u => u.Senha)
-                .HasColumnName("Senha")
-                .HasColumnType("varchar(30)");
+                .HasColumnName("Senha");
 
             builder
                 .Property(u => u.Foto)
                 .HasColumnName("Foto")
-                .HasColumnType("varchar(max)");
+                .IsRequired(false);
         }
     }
 }

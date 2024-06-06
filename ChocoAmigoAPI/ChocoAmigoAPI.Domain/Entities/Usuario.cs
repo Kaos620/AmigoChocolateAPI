@@ -8,6 +8,8 @@ namespace ChocoAmigoAPI.Domain.Entities
 {
     public class Usuario
     {
+        protected Usuario() { }
+
         public Usuario(string nomeUsuario, string email, string senha, string? foto)
         {
             NomeUsuario = nomeUsuario;

@@ -4,6 +4,7 @@ using ChocoAmigoAPI.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,7 +19,8 @@ namespace ChocoAmigoAPI.Repository.Repositories
 
         public UsuarioRepository(Contexto contexto)
         {
-            _contexto = contexto;
+            _contexto = contexto ?? throw new ArgumentNullException(nameof(contexto));
+///            _contexto = contexto;
         }
 
         #endregion
@@ -30,8 +32,15 @@ namespace ChocoAmigoAPI.Repository.Repositories
 
         public async Task<Usuario> Autenticar(string email, string senha)
         {
-            var usuario = await _contexto.Usuario.Where(filtro =>
-                        filtro.Email == email && filtro.Senha == senha).FirstOrDefaultAsync();
+            if (_contexto == null)
+            {
+                throw new Exception("Contexto é null no UsuarioRepository.");
+            }
+            var entity = _contexto.Usuario;
+            var users = _contexto.Usuario.ToList();
+            var filtered = entity.Where(filtro =>
+                        filtro.Email == email && filtro.Senha == senha);
+            var usuario = await filtered.FirstOrDefaultAsync();
 
             return usuario;
         }
@@ -40,6 +49,7 @@ namespace ChocoAmigoAPI.Repository.Repositories
         {
             try
             {
+
                 var usuario = await _contexto.Usuario.Where(c => c.UsuarioId == id).FirstOrDefaultAsync();
 
                 return usuario;

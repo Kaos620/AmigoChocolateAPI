@@ -13,15 +13,26 @@ namespace ChocoAmigo.Repository.EntityFramework
 
         private readonly DatabaseSettings _databaseSettings;
 
-        public Contexto(DbContextOptions<Contexto> options, IOptions<DatabaseSettings> databaseSettings)
-            : base(options)
+        //public Contexto(DbContextOptions<Contexto> options, IOptions<DatabaseSettings> databaseSettings)
+        public Contexto()
+            : base()
         {
-            _databaseSettings = databaseSettings.Value;
+            //_databaseSettings = databaseSettings.Value;
+            //try
+            //{
+            //    Database.CanConnect();
+            //    Console.WriteLine("Conexão com o banco de dados bem-sucedida.");
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine($"Erro ao conectar com o banco de dados: {ex.Message}");
+            //}
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(_databaseSettings.ConnectionString);
+            //optionsBuilder.UseSqlServer(_databaseSettings.ConnectionString);
+            optionsBuilder.UseSqlServer("Data Source=BANDEIRA, 1434;User ID=RA044321;Password=044321;Database=BD044321;TrustServerCertificate=True;");
         }
 
         #endregion
@@ -44,7 +55,7 @@ namespace ChocoAmigo.Repository.EntityFramework
             modelBuilder.ApplyConfiguration(new SorteioConfiguration());
             modelBuilder.ApplyConfiguration(new UsuarioConfiguration());
 
-            base.OnModelCreating(modelBuilder);
+            //base.OnModelCreating(modelBuilder);
         }
     }
 }

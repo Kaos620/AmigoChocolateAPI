@@ -33,3 +33,23 @@ C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAm
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Repository.dll
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Repository.pdb
 C:\Users\rafae\OneDrive\Área de Trabalho\AmigoCholateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.genruntimeconfig.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.deps.json
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.runtimeconfig.json
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChochoAmigoAPI.Service.pdb
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Domain.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Repository.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Domain.pdb
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\bin\Debug\net8.0\ChocoAmigoAPI.Repository.pdb
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.csproj.AssemblyReference.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.AssemblyInfoInputs.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.AssemblyInfo.cs
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.sourcelink.json
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.csproj.CopyComplete
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\refint\ChochoAmigoAPI.Service.dll
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.pdb
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ChochoAmigoAPI.Service.genruntimeconfig.cache
+C:\Users\rafael.cardoso\OneDrive - GRUPO ZEMA\Área de Trabalho\AmigoChocolateAPI\AmigoChocolateAPI\ChocoAmigoAPI\ChochoAmigoAPI.Service\obj\Debug\net8.0\ref\ChochoAmigoAPI.Service.dll

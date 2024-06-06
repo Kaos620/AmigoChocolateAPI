@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChocoAmigoAPI.Repository", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChocoAmigoAPI.Web", "ChocoAmigoAPI.Web\ChocoAmigoAPI.Web.csproj", "{8ADC9A0A-C68D-4158-A692-D835019A1E9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChochoAmigoAPI.Service", "ChochoAmigoAPI.Service\ChochoAmigoAPI.Service.csproj", "{0CCF049D-99B2-4A53-ACED-6EDADADA40CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChochoAmigoAPI.Service", "ChochoAmigoAPI.Service\ChochoAmigoAPI.Service.csproj", "{0CCF049D-99B2-4A53-ACED-6EDADADA40CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEFCore", "TesteEFCore\TesteEFCore.csproj", "{C6ED34E9-BAAF-4DDA-BC07-888F4211227F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{0CCF049D-99B2-4A53-ACED-6EDADADA40CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CCF049D-99B2-4A53-ACED-6EDADADA40CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CCF049D-99B2-4A53-ACED-6EDADADA40CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6ED34E9-BAAF-4DDA-BC07-888F4211227F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ED34E9-BAAF-4DDA-BC07-888F4211227F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ED34E9-BAAF-4DDA-BC07-888F4211227F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ED34E9-BAAF-4DDA-BC07-888F4211227F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
